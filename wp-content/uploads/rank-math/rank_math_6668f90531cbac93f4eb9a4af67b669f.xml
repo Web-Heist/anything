@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost/anything/main-sitemap.xsl"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>http://localhost/anything/post-sitemap.xml</loc>
+		<lastmod>2024-02-20T14:27:26+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/anything/page-sitemap.xml</loc>
+		<lastmod>2024-08-07T12:10:40+00:00</lastmod>
+	</sitemap>
+	<sitemap>
+		<loc>http://localhost/anything/category-sitemap.xml</loc>
+		<lastmod>2024-02-20T14:27:26+00:00</lastmod>
+	</sitemap>
+</sitemapindex>
